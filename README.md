@@ -1,10 +1,10 @@
-# <a href="https://stafnyvk.github.io/stafny-portfolio/" target="_blank">Stafny Karkada - Portfolio</a>
+# <a href="https://stafvk.github.io/stafny-portfolio/" target="_blank">Stafny Karkada - Portfolio</a>
 <p align="justify">A modern, responsive portfolio website showcasing my projects, skills, experience, and professional journey as a Full-Stack Developer.</p>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/StafnyVk/stafny-portfolio)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://stafnyvk.github.io/stafny-portfolio/)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Stafvk/stafny-portfolio)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://stafvk.github.io/stafny-portfolio/)
 [![Author](https://img.shields.io/badge/Author-Stafny%20Karkada-purple.svg)](https://www.linkedin.com/in/stafny-karkada/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-August%202025-yellow.svg)](https://github.com/StafnyVk/stafny-portfolio)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-August%202025-yellow.svg)](https://github.com/Stafvk/stafny-portfolio)
 <a href="https://github.com/Stafvk/stafny-portfolio/blob/main/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
 
